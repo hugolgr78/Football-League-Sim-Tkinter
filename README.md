@@ -7,7 +7,7 @@ The app includes:
 - Match information such as scorers, lineups and more
 - League statistics such as top scorer, assister and more#
 - Real time position and points graphs
-- League all-time records and past seasons statistics
+- League all-time records and past seasons statistics\n
 As well as the ability to:
 - Create an unlimited amount of teams
 - Choose and personalise a logo
