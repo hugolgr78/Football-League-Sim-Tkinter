@@ -19,6 +19,18 @@ This application empowers users to create and simulate tournaments and teams wit
 - 🧑‍🎨 **Player Creation**: Create players manually or let the app generate them automatically.  
 - 🔍 **Comprehensive Player Stats**: Analyze and explore player performance across multiple seasons.
 
+## 🛠️ Technical Details  
+- **Data Management with JSON**:  
+  - All team, player, match, and tournament data is stored and retrieved using JSON files, ensuring seamless data management and persistence across sessions.  
+  - JSON allows easy portability and scalability for future updates or feature additions.  
+
+- **Match Outcome Algorithm**:  
+  - An algorithm calculates match outcomes based on the teams' levels and the difference between them 
+  - Player contributions (e.g., goals, assists) are determined by chances defined by their position
+
+- **Dynamic Graphing**:  
+  - Real-time graphs are updated using data stored in JSON, offering users a visually appealing way to track league progress.  
+
 ## 💡 Planned Features (Not Yet Implemented)  
 - 🏆 **Cup tournaments**: A second type of tournament with a group and knockout stage format
 - 🌍 **National Teams**: Allowing the user to simulate tournaments with national teams made up of players from the created teams
